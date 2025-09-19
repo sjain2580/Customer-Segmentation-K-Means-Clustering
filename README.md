@@ -83,6 +83,12 @@ pip install -r requirements.txt
 python clustering.py
 ```
 
+## Visualization
+The project provides several visualizations to help you interpret the results:
+- Elbow Plot: This plot helps in visually identifying the optimal number of clusters (k).
+
+- Scatter Plot of Clusters: This plot shows the customers, colored by their assigned segment, revealing the patterns and groupings discovered by the K-Means algorithm. This visualization helps in understanding the characteristics of each customer segment.
+
 ## Contributors
 
 **<https://github.com/sjain2580>**
